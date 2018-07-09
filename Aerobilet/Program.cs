@@ -70,7 +70,7 @@ namespace Example3
 
             searchButton.Click();
 
-
+            /*
 
             IWebElement mapView = driver.FindElement(By.Id("maplink"));
 
@@ -91,6 +91,7 @@ namespace Example3
                 Console.WriteLine("Wide Map link is broken!");
             }
 
+            */
 
             /*
 
